@@ -1,0 +1,14 @@
+﻿  MultiMap.cpp
+  remove.cpp
+C:\Users\user\Desktop\MultiMap\MultiMap\MultiMap\remove.cpp(1,22): error C2653: 'MultiMap': is not a class or namespace name
+C:\Users\user\Desktop\MultiMap\MultiMap\MultiMap\remove.cpp(1,23): error C2065: 'TKey': undeclared identifier
+C:\Users\user\Desktop\MultiMap\MultiMap\MultiMap\remove.cpp(1,28): error C2146: syntax error: missing ')' before identifier 'c'
+C:\Users\user\Desktop\MultiMap\MultiMap\MultiMap\remove.cpp(1,41): error C2143: syntax error: missing ';' before '{'
+C:\Users\user\Desktop\MultiMap\MultiMap\MultiMap\remove.cpp(1,41): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\user\Desktop\MultiMap\MultiMap\MultiMap\remove.cpp(54,19): error C2653: 'MultiMap': is not a class or namespace name
+C:\Users\user\Desktop\MultiMap\MultiMap\MultiMap\remove.cpp(54,20): error C2065: 'TKey': undeclared identifier
+C:\Users\user\Desktop\MultiMap\MultiMap\MultiMap\remove.cpp(54,25): error C2146: syntax error: missing ')' before identifier 'c'
+C:\Users\user\Desktop\MultiMap\MultiMap\MultiMap\remove.cpp(54,38): error C2143: syntax error: missing ';' before '{'
+C:\Users\user\Desktop\MultiMap\MultiMap\MultiMap\remove.cpp(54,38): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...
+C:\Users\user\Desktop\MultiMap\MultiMap.cpp(212): warning C4715: 'MultiMap::search': not all control paths return a value
